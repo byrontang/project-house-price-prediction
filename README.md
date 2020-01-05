@@ -10,3 +10,36 @@ There are three main workbooks, each owns a different topic.
 - **Data Exploration & Preparation:** data-exploration-and-preprocessing
 - **Regression and Ensemble Models:** models
 - **Boosting Models:** AdaBoost-GBM-XGBoost
+
+## Overview
+
+#### Regression
+1. Linear Regression
+    - Probablistic View of Linear Regression
+2. Ridge Regression
+    - Probablisitc View: Ridge Regression and Bayesian Modeling
+3. Sparse Regression (Lasso)
+4. Elastic Net
+    - Model Comparison - Linear Regression, Ridge, and Lasso
+5. Kernel Ridge
+    - Kernels
+6. Regression Tree
+
+#### Ensemble
+1. Bagging
+    - Algorithm
+    - Model Improvement
+2. Random Forest
+    - Algorithm
+3. AdaBoost
+    - Bagging vs AdaBoosting
+    - Algorithm (Regression)
+4. Gradient Boosting Machine (GBM)
+    - AdaBoost vs GBM
+    - General Form
+    - Algorithm
+5. XGBoost
+    - GBM vs XGBoost
+    - Algorithm
+    
+    
